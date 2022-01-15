@@ -80,7 +80,7 @@ h1 {
 }
 
 .light-mode{
-  background-color: beige;
+  background-color: rgb(226, 226, 192);
   color: black;
 }
 
@@ -96,4 +96,8 @@ h1 {
 .icon{
   border-radius: 5px;
   border-color: #0b0c0c;
+}
+
+.by{
+  color: #474b4b;
 }
